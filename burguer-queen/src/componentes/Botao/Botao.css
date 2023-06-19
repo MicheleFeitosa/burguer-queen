@@ -1,0 +1,13 @@
+
+.botao button{
+    background-color: #f8a2b3d8;
+    color: aliceblue;
+    border: none;
+    padding: 10px;
+    border-radius: 3px;
+    width: 200px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+
+}
+

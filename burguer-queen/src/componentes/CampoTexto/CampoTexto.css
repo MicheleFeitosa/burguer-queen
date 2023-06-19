@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+.campo-texto{
+    padding: 0;
+    margin: 24px 0;
+    font-family: 'Quicksand', sans-serif;
+    
+    
+}
+
+
+.campo-texto label{
+    display: block;
+    color: #CD851A;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.campo-texto input{
+    background-color: #FAF1DA;
+    border: none;
+    border-radius: 3px;
+    width: 180px;
+    padding: 12px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    
+}
+
+.campo-texto input::placeholder{
+    color: #CD851A;
+    font-family: 'Quicksand', sans-serif;
+    font-style: italic;
+
+}
