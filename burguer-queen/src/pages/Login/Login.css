@@ -1,5 +1,5 @@
 .App{
-    background-image: url(../src/imagens/background2.png);
+    background-image: url(../../imagens/background2.png);
     background-attachment: fixed;
     background-size: cover;
     height: 100vh;

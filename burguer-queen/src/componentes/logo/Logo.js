@@ -1,5 +1,6 @@
 import logoBC from '../../imagens/logo-bc2.png';
 import './Logo.css';
+import React from 'react';
 
 function LogoBurguer(){
  return(
