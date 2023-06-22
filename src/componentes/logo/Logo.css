@@ -1,0 +1,13 @@
+
+.logoburger{
+    display: flex;
+    justify-content: center;
+   /* background-image: url(../../imagens/background.png);*/
+}
+
+
+.logoburger img{
+    height: 180px;
+    width: 180px;
+    padding-top: 20px;
+}

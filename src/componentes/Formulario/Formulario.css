@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+h2{
+    font-family: 'Quicksand', sans-serif;
+    color: #CD851A;
+    text-align: center;
+}
+
+.formulario{
+    display: flex;
+    justify-content: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: #d18c032c;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+
+
