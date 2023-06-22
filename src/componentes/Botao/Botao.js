@@ -1,14 +1,12 @@
 import './Botao.css';
 import React from 'react';
 
-const Botao = () => {
+const Botao = (props) => {
 
     return(
-     <div className="botao">
-        <button>
-            Login
-        </button>
-     </div>
+    <>
+        <button className="botao" onClick={props.onClick}>Login</button>
+    </>
     )
 }
 
