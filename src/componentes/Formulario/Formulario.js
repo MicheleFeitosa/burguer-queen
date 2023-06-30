@@ -43,9 +43,9 @@ const Formulario = () => {
           <form >
             <h2>Login</h2>
             <CampoTexto label="Email" placeholder="Digite seu email" value={email}
-             onChange={handleEmailChange} />
+             onChange={handleEmailChange} type="text"/>
             <CampoTexto label="Senha" placeholder="Digite sua senha" value={senha}
-             onChange={handleSenhaChange}/>
+             onChange={handleSenhaChange} type="password"/>
             <Botao type="submit" onClick={handleSubmit}/>
           </form>
        </section>
